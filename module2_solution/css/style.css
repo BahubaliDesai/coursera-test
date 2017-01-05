@@ -11,7 +11,7 @@ section {
 
 }
 section, .title{
-    border: 1px solid black;
+    border: 1px solid black ;
 }
 
 .section1, .section2, .section3 {
@@ -27,6 +27,8 @@ section, .title{
     text-align: center;
     float: right;
     font-size: 20px;
+    color: white;
+    font-weight: bold;
 
 
 }

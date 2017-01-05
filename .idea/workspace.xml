@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9de1ed1d-26cb-4e9a-a334-a813e4988e57" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module2_solution/css/style.css" afterPath="$PROJECT_DIR$/module2_solution/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module2_solution/index.html" afterPath="$PROJECT_DIR$/module2_solution/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,7 +20,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/module2_solution/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="259">
@@ -32,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module2_solution/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+            <state relative-caret-position="259">
+              <caret line="67" column="20" lean-forward="true" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -210,12 +208,12 @@
       <workItem from="1483350521127" duration="20000" />
       <workItem from="1483531212267" duration="7544000" />
       <workItem from="1483589519695" duration="159000" />
-      <workItem from="1483590070138" duration="6202000" />
+      <workItem from="1483590070138" duration="8442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16644000" />
+    <option name="totallyTimeSpent" value="18884000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -302,18 +300,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module2_solution/index.html">
+    <entry file="file://$PROJECT_DIR$/module2_solution/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
-          <caret line="30" column="81" lean-forward="true" selection-start-line="30" selection-start-column="81" selection-end-line="30" selection-end-column="81" />
+          <caret line="67" column="20" lean-forward="true" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module2_solution/css/style.css">
+    <entry file="file://$PROJECT_DIR$/module2_solution/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="259">
+          <caret line="30" column="81" lean-forward="true" selection-start-line="30" selection-start-column="81" selection-end-line="30" selection-end-column="81" />
           <folding />
         </state>
       </provider>
