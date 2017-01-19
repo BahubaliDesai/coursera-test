@@ -1,0 +1,58 @@
+
+.row{
+    margin-top: 100px;
+    margin-left: 100px;
+
+}
+
+.row .pro-pic{
+
+    height: 250px;
+    width: 250px;
+    background-color: #00b3ee;
+    padding: 0;
+    border-top: 1px solid darkgrey;
+    border-right: 1px solid darkgrey;
+    border-left: 1px solid darkgrey;
+}
+
+.row .pro-pic .top {
+    vertical-align: middle;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 44px;
+    padding-bottom: 44px;
+
+}
+.row .name {
+    width: 250px;
+    font-size: 1.9em;
+    border: 1px solid darkgrey;
+    vertical-align: middle;
+   /* line-height: 100px;*/
+}
+
+.row .personal-info{
+    text-align: center;
+    width: 250px;
+    border-bottom: 1px solid darkgrey;
+    border-right: 1px solid darkgrey;
+    border-left: 1px solid darkgrey;
+
+}
+
+.row .personal-info .l-10 {
+    float: left;
+   margin: 10px;
+}
+
+.row .personal-info .r-10 {
+    float: right;
+   margin: 10px;
+
+}
+
+.personal-info p span{
+    font-weight: bold;
+}
+

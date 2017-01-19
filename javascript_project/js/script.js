@@ -61,6 +61,7 @@ if ( (null) || (console.log("Hello")) || x > 5 ) {
     console.log("Hello");
 }*/
 
+/*
 var company = new Object();
 company.name = "Facebook";
 company.ceo = new Object();
@@ -69,3 +70,118 @@ company.ceo.age =34;
 company.ceo.gender = "male";
 console.log(company);
 console.log(company.ceo["age"]);
+*/
+
+/*
+var company = {
+    name : "FaceBook",
+    ceo : {
+        "First Name" : "Mark",
+        FavColor : "blue"
+
+    },
+
+    "Stock of company" :110
+
+};
+console.log(company);
+*/
+/*
+function multiply(x,y) {
+    return x*y ;
+
+}
+multiply.version = "v1.0.0";
+console.log(multiply.version);
+
+function makeMultiplier(multiplier) {
+    var myFunc = function (x) {
+        return multiplier * x ;
+        
+    }
+    return myFunc;
+    
+}
+var multiplyBy3 = makeMultiplier(3);
+console.log(multiplyBy3(5));
+
+var doubleAll = makeMultiplier(2);
+console.log(100);
+
+function doOperation(y, operation) {
+    return operation(y);
+
+}
+var result = doOperation(10, multiplyBy3);
+console.log(result);*/
+/*
+var a={ x :10};
+var b=a;
+console.log(a);
+console.log(b);
+
+/!*b.x=15;*!/
+console.log('after updating b');
+console.log(a);
+console.log(b);
+*/
+
+/*function changePrimitive(primvalue) {
+    console.log("in change Primitive..");
+    console.log("before:");
+    console.log(primvalue);
+
+    primvalue=5;
+    console.log("after:");
+    console.log(primvalue);
+
+}
+
+var value = 7;
+changePrimitive(value);
+console.log("after changePrimitive original value :");
+console.log(value);*/
+/*changePrimitive(7);*/
+/*
+var x=5;
+x=10;
+var y=x;
+
+console.log(y);*/
+
+/*function  test() {
+    console.log(this);
+    this.myName="Bahubali";
+
+}
+test();
+console.log(window.myName);*/
+
+/*function Circle(radius) {
+    this.radius = radius;
+    this.Area =  Math.PI * Math.pow(this.radius,2);
+}
+
+var myCircle = new Circle(10);
+console.log(myCircle);*/
+
+var literalCircle = {
+    radius : 10,
+    getArea : function () {
+        var self = this;
+        console.log(this);
+
+        var incresedArea = function () {
+            self.radius = 20;
+
+        };
+        incresedArea();
+        console.log(this.incresedArea);
+        return Math.PI * Math.pow(this.radius, 2);
+
+    }
+
+};
+console.log(literalCircle.getArea());
+
+
