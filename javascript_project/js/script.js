@@ -165,6 +165,7 @@ console.log(window.myName);*/
 var myCircle = new Circle(10);
 console.log(myCircle);*/
 
+/*
 var literalCircle = {
     radius : 10,
     getArea : function () {
@@ -184,4 +185,76 @@ var literalCircle = {
 };
 console.log(literalCircle.getArea());
 
+*/
 
+/*
+var array= new Array();
+array[0] = "Bahubali";
+array[1] = 1992;
+array[2] = function (name) {
+    console.log("hello " + name);
+
+}
+array[3] = {"age" : 21};
+array[2]("desai");
+
+console.log(array);
+*/
+
+/*
+var names = ["bahubali", "sanjay", "Desai"];
+/!*console.log(names);*!/
+names[100] = 'xxxx';
+
+for(var i=0; i<names.length; i++){
+    console.log( i +" hello "+  names[i]);
+}
+*/
+
+/*
+var name2 = ["bahubali", "sanjay", "desai"];
+
+/!*
+var myObj = {
+    name : "bahubali",
+    course : "HTML/CSS/JAVASCRIPT",
+    platform : "Coursera"
+}
+
+for(var prop in myObj){
+    console.log(prop + " : "+ myObj[prop] );
+}*!/
+for(var name in name2){
+    console.log("hello "+ name2[name]);
+}
+*/
+/*
+
+function makeMultiplier(multiplier) {
+    function b() {
+        console.log("multiplier is "+ multiplier);
+
+    }
+    b();
+
+    return (
+        function (x) {
+            return multiplier * x ;
+            
+        }
+    );
+
+}
+var doubleAll = makeMultiplier(2);
+console.log(doubleAll(10));*/
+
+
+( function (window) {
+    var my = {};
+    my.name = "Bahubali";
+    my.sayHello = function () {
+        console.log("Hello "+ my.name);
+
+    }
+    window.my = my;
+})(window);
