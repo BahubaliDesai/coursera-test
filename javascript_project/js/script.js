@@ -258,3 +258,43 @@ console.log(doubleAll(10));*/
     }
     window.my = my;
 })(window);
+
+
+
+document.addEventListener("DOMContentLoaded",
+function (event) {
+    function sayHello() {
+        this.textContent = "following";
+        var name= document.getElementById("name").value;
+
+        var message = "<h2> hello "+ name + " ! </h2>";
+
+        document.getElementById("content").innerHTML = message;
+
+        if (name === "bahubali")
+        {
+            var title =document.querySelector("#title").textContent;
+            title += "Welcome to coursera!";
+            document.querySelector("#title").textContent = title;
+
+            name = {};
+        }
+
+    }
+
+    /*
+     document.querySelector("button").addEventListener("click", sayHello);*/
+
+    document.querySelector("button").onclick = sayHello;
+
+    document.querySelector("body").addEventListener("mousemove",
+    function (event) {
+        if(event.shiftKey == true){
+            console.log(event.clientX);
+            console.log(event.clientY);
+        }
+
+        
+    })
+
+});

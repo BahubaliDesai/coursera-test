@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<!--<style>
+
+    /*div{
+        margin-top:100px;
+        margin-left: 100px;
+    }
+    a.tooltip {outline:none; }
+    a.tooltip strong {line-height:30px;}
+    a.tooltip:hover {text-decoration:none;}
+    a.tooltip span {
+        z-index:10;display:none; padding:14px 20px;
+        margin-top:-30px; margin-left:28px;
+        width:300px; line-height:16px;
+    }
+    a.tooltip:hover span{
+        display:inline; position:absolute; color:#111;
+        border:1px solid #DCA; background:#fffAF0;}
+    .callout {z-index:20;position:absolute;top:30px;border:0;left:-12px;}
+
+    !*CSS3 extras*!
+    a.tooltip span
+    {
+        border-radius:4px;
+        box-shadow: 5px 5px 8px #CCC;
+    }*/
+
+    body {
+        font-family: Helvetica;
+        font-size: 13px;
+    }
+
+    div.callout {
+        height: 60px;
+        width: 200px;
+        float: left;
+    }
+
+    div.callout {
+        background-color: #444;
+        background-image: -moz-linear-gradient(top, #444, #444);
+        position: relative;
+        color: #ccc;
+        padding: 10px;
+        border-radius: 3px;
+        box-shadow: 0px 0px 20px #999;
+        margin: 25px;
+        min-height: 50px;
+        border: 1px solid #333;
+        text-shadow: 0 0 1px #000;
+
+        /*box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset;*/
+    }
+
+    .callout::before {
+        content: "";
+        width: 0px;
+        height: 0px;
+        border: 0.8em solid transparent;
+        position: absolute;
+    }
+
+    .callout.top::before {
+        left: 45%;
+        bottom: -20px;
+        border-top: 10px solid #444;
+    }
+
+    .callout.bottom::before {
+        left: 45%;
+        top: -20px;
+        border-bottom: 10px solid #444;
+    }
+
+    .callout.left::before {
+        right: -20px;
+        top: 40%;
+        border-left: 10px solid #444;
+    }
+
+    .callout.right::before {
+        left: -20px;
+        top: 40%;
+        border-right: 10px solid #444;
+    }
+
+    .callout.top-left::before {
+        left: 7px;
+        bottom: -20px;
+        border-top: 10px solid #444;
+    }
+
+    .callout.top-right::before {
+        right: 7px;
+        bottom: -20px;
+        border-top: 10px solid #444;
+    }
+</style>-->
+<body>
+<!--
+
+-->
+<!--
+<div>
+   &lt;!&ndash; <a href="#" class="tooltip" style="color:black;">
+        Tooltip
+        <span>
+        <img class="callout" src="cssttp/callout.gif" />
+        <strong>Most Light-weight Tooltip</strong><br />
+        This is the easy-to-use Tooltip driven purely by CSS.
+    </span>
+    </a>&ndash;&gt;
+    <div class="callout top">Your Favourite HTML,CSS,JS Playground!</div>
+    <div class="callout bottom">Your Favourite HTML,CSS,JS Playground!</div>
+    <div class="callout left">Your Favourite HTML,CSS,JS Playground!</div>
+    <div class="callout right">Your Favourite HTML,CSS,JS Playground!</div>
+    <div class="callout top-left">Your Favourite HTML,CSS,JS Playground!</div>
+    <div class="callout top-right">Your Favourite HTML,CSS,JS Playground!</div>
+</div>
+-->
+
+
+<!--Second tooltip-->
+<!--<a href="#" class="tooltip">
+    <img src="/tooltip/css-tooltip-image.gif" />
+    <span>
+        <img class="callout" src="cssttp/callout.gif" />
+        <img src="/tooltip/src/tooltips-cd2.jpg" style="float:right;" />
+        <strong>CSS only Tooltip</strong><br />
+        Pure CSS popup tooltips with clean semantic XHTML.
+    </span>
+</a>-->
+
+<!--<script type="text/javascript">
+    document
+        .querySelectorAll('body')[0]
+        .style
+        .backgroundColor = 'whiteSmoke';
+</script>-->
+
+<h1>Welcome to coursera!</h1>
+<script type="text/javascript" src="js/script.js"></script>
+
+<h1 id="title">My Practice Page</h1>
+
+<p> Write Somethimg:
+    <input type="text"  id="name" >
+    <button>sayit</button> </p>
+
+<div id="content"></div>
+
+</body>
+</html>
