@@ -2,316 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9de1ed1d-26cb-4e9a-a334-a813e4988e57" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/forBbm/img/fall.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/jumbotron_1200.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/jumbotron_768.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/jumbotron_992.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu-tile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/A/A.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/A/A1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/A/A10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/A/A11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/A/A2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/A/A3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/A/A4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/A/A5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/A/A6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/A/A7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/A/A8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/A/A9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/B/B.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/B/B1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/B/B10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/B/B11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/B/B12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/B/B13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/B/B14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/B/B15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/B/B16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/B/B2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/B/B3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/B/B4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/B/B5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/B/B6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/B/B7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/B/B8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/B/B9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/C/C.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/C/C1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/C/C10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/C/C11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/C/C12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/C/C13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/C/C14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/C/C15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/C/C16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/C/C17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/C/C18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/C/C19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/C/C2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/C/C3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/C/C4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/C/C5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/C/C6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/C/C7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/C/C8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/C/C9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/CM/CM.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/CM/CM1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/CM/CM2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/CM/CM3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/CM/CM4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/CM/CM5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/CSR/CSR.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/CSR/CSR1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/CSR/CSR2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/CSR/CSR3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/CSR/CSR4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/CU/CU.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/CU/CU21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/CU/CU22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/CU/CU23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/D/D.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/D/D1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/D/D10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/D/D11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/D/D12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/D/D13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/D/D14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/D/D15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/D/D16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/D/D17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/D/D18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/D/D2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/D/D3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/D/D4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/D/D5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/D/D6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/D/D7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/D/D8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/D/D9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/DK/DK.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/DK/DK1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/DK/DK2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/DK/DK3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/DS/DS.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/DS/DS1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/DS/DS2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/F/F.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/F/F1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/F/F10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/F/F11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/F/F12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/F/F2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/F/F3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/F/F4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/F/F5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/F/F6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/F/F7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/F/F8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/F/F9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/FR/FR.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/FR/FR1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/FR/FR2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/FR/FR3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/FR/FR4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/FR/FR5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/FY/FY.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/FY/FY1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/FY/FY2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/FY/FY3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/FY/FY4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/FY/FY5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/L/L9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/NF/NF.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/NF/NF10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/NF/NF11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/NF/NF12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/NF/NF13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/NL/NL.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/NL/NL1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/NL/NL2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/NL/NL3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/NS/NS.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/NS/NS1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/NS/NS2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/NS/NS3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/NS/NS4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/PF/PF.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/PF/PF1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/PF/PF2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/PF/PF3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/PF/PF4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/PF/PF5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SO/SO.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SO/SO1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SO/SO2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SO/SO3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SO/SO4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SO/SO5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SO/SO6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SO/SO7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SP/SP.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SP/SP1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SP/SP2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SP/SP3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SP/SP4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SP/SP5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SP/SP6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SP/SP7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SP/SP8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR34.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR35.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR36.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR37.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR38.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR39.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR40.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR41.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR42.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR43.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SR/SR9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SS/SS.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SS/SS1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SS/SS10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SS/SS11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SS/SS12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SS/SS13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SS/SS14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SS/SS2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SS/SS3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SS/SS4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SS/SS5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SS/SS6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SS/SS7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SS/SS8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/SS/SS9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/T/T.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/T/T1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/T/T2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/T/T3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/T/T4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/V/V.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/V/V1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/V/V2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/V/V3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/V/V4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/V/V5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/V/V6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/V/V7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/VG/VG.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/VG/VG1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/VG/VG10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/VG/VG11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/VG/VG12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/VG/VG13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/VG/VG14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/VG/VG2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/VG/VG3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/VG/VG4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/VG/VG5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/VG/VG6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/VG/VG7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/VG/VG8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/menu/VG/VG9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/restaurant-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/restaurant-logo_large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/restaurant-logo_medium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/restaurant-logo_small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/specials-tile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/images/star-k-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/forBbm/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/forBbm/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript_project/practice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/js/ajax-utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/js/jquery-2.1.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/js/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/snippets/categories-title-snippet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/snippets/category-snippet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/snippets/home-snippet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/snippets/menu-item.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/snippets/menu-items-title.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript_project/css/style.css" afterPath="$PROJECT_DIR$/javascript_project/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript_project/index.html" afterPath="$PROJECT_DIR$/javascript_project/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript_project/js/script.js" afterPath="$PROJECT_DIR$/javascript_project/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_website/index.html" afterPath="$PROJECT_DIR$/real_website/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_website/js/script.js" afterPath="$PROJECT_DIR$/real_website/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_website/menu-categories.html" afterPath="$PROJECT_DIR$/real_website/menu-categories.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real_website/single-category.html" afterPath="$PROJECT_DIR$/real_website/single-category.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/js/script.js" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/snippets/home-snippet.html" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/snippets/home-snippet.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -332,8 +25,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/module5_solution/assignment5-solution-starter/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-672">
-              <caret line="82" column="29" lean-forward="false" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
+            <state relative-caret-position="166">
+              <caret line="106" column="0" lean-forward="true" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -342,8 +35,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module5_solution/assignment5-solution-starter/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-1125">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home-snippet.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module5_solution/assignment5-solution-starter/snippets/home-snippet.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -396,6 +99,7 @@
         <option value="$PROJECT_DIR$/real_website/single-category.html" />
         <option value="$PROJECT_DIR$/real_website/index.html" />
         <option value="$PROJECT_DIR$/real_website/js/script.js" />
+        <option value="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/snippets/home-snippet.html" />
         <option value="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/js/script.js" />
       </list>
     </option>
@@ -433,6 +137,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -455,11 +161,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="real_website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coursera-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coursera-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="module5_solution" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assignment5-solution-starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coursera-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coursera-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module5_solution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assignment5-solution-starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snippets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -487,8 +229,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -622,7 +362,8 @@
       <workItem from="1484972119370" duration="13326000" />
       <workItem from="1485146814542" duration="16674000" />
       <workItem from="1485232839356" duration="18030000" />
-      <workItem from="1485322371268" duration="11947000" />
+      <workItem from="1485322371268" duration="13682000" />
+      <workItem from="1485407749061" duration="1666000" />
     </task>
     <task id="LOCAL-00001" summary="fixing bug">
       <created>1484801297877</created>
@@ -642,11 +383,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="221489000" />
+    <option name="totallyTimeSpent" value="224890000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22769953" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -702,13 +443,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/real_website/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/real_website/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2040">
@@ -920,17 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="122">
           <caret line="538" column="19" lean-forward="false" selection-start-line="538" selection-start-column="14" selection-end-line="538" selection-end-column="19" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/real_website/js/ajax-utils.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -952,7 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -960,7 +682,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="47" lean-forward="false" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -968,7 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -976,7 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="1680" column="0" lean-forward="false" selection-start-line="1680" selection-start-column="0" selection-end-line="1680" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -984,7 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
           <caret line="294" column="4" lean-forward="false" selection-start-line="294" selection-start-column="4" selection-end-line="294" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -992,7 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-327">
           <caret line="79" column="70" lean-forward="true" selection-start-line="79" selection-start-column="70" selection-end-line="79" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1000,7 +717,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="128" column="45" lean-forward="true" selection-start-line="128" selection-start-column="45" selection-end-line="128" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1008,7 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
           <caret line="43" column="62" lean-forward="false" selection-start-line="43" selection-start-column="62" selection-end-line="43" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1016,7 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1034,7 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3855">
           <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1042,7 +755,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1050,22 +762,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/real_website/js/ajax-utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module5_solution/assignment5-solution-starter/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-1125">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module5_solution/assignment5-solution-starter/snippets/home-snippet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module5_solution/assignment5-solution-starter/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-672">
-          <caret line="82" column="29" lean-forward="false" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
+        <state relative-caret-position="166">
+          <caret line="106" column="0" lean-forward="true" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
           <folding />
         </state>
       </provider>
