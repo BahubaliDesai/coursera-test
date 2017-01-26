@@ -286,7 +286,7 @@
       <workItem from="1485146814542" duration="16674000" />
       <workItem from="1485232839356" duration="18030000" />
       <workItem from="1485322371268" duration="13682000" />
-      <workItem from="1485407749061" duration="2715000" />
+      <workItem from="1485407749061" duration="2743000" />
     </task>
     <task id="LOCAL-00001" summary="fixing bug">
       <created>1484801297877</created>
@@ -302,11 +302,18 @@
       <option name="project" value="LOCAL" />
       <updated>1484801877802</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updates">
+      <created>1485410483348</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1485410483348</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="225939000" />
+    <option name="totallyTimeSpent" value="225967000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -359,7 +366,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixing bug" />
     <MESSAGE value="changing address" />
-    <option name="LAST_COMMIT_MESSAGE" value="changing address" />
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
