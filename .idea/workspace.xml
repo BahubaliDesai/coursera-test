@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9de1ed1d-26cb-4e9a-a334-a813e4988e57" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/js/script.js" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/snippets/home-snippet.html" afterPath="$PROJECT_DIR$/module5_solution/assignment5-solution-starter/snippets/home-snippet.html" />
-    </list>
+    <list default="true" id="9de1ed1d-26cb-4e9a-a334-a813e4988e57" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -25,8 +21,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/module5_solution/assignment5-solution-starter/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="106" column="0" lean-forward="true" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+            <state relative-caret-position="-14">
+              <caret line="184" column="6" lean-forward="true" selection-start-line="184" selection-start-column="6" selection-end-line="184" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -363,7 +359,7 @@
       <workItem from="1485146814542" duration="16674000" />
       <workItem from="1485232839356" duration="18030000" />
       <workItem from="1485322371268" duration="13682000" />
-      <workItem from="1485407749061" duration="1666000" />
+      <workItem from="1485407749061" duration="1841000" />
     </task>
     <task id="LOCAL-00001" summary="fixing bug">
       <created>1484801297877</created>
@@ -383,7 +379,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="224890000" />
+    <option name="totallyTimeSpent" value="225065000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -790,8 +786,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/module5_solution/assignment5-solution-starter/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="106" column="0" lean-forward="true" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+        <state relative-caret-position="-14">
+          <caret line="184" column="6" lean-forward="true" selection-start-line="184" selection-start-column="6" selection-end-line="184" selection-end-column="6" />
           <folding />
         </state>
       </provider>
